@@ -1,6 +1,6 @@
 # Hello Everyone My Name Is Rhasya 👤
 
-## I'm a Student, Programmer, Web Developer!
+I'm a Student, Programmer, Web Developer!
 <br>
 
 - 🧑‍🏫 I'm still a student at this time
