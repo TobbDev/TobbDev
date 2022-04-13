@@ -5,7 +5,7 @@ I'm a Student, Programmer, Web Developer!
 
 - 🧑‍🏫 I'm still a student at this time
 - 🤖 I'm currently learning about back-end website
-- 🎖️ 2022 Goals : Have expertise with the `python` programming language
+- 🎖️ 2022 Goals : Have expertise with `python` programming language
 - 🪐 Fun fact : I love to play basketball and badminton
 
 <br>
