@@ -23,4 +23,6 @@ I'm a Student, Programmer, Web Developer!
 
 <br>
 
+## TobbDev's GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TobbDev&theme=radical)
