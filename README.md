@@ -23,4 +23,4 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TobbDev &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TobbDev&theme=radical)
